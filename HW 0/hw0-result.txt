@@ -1,0 +1,150 @@
+The number 1993 is prime.
+The nearest prime number to 1994 is 1993.
+The nearest prime number to 1995 is 1993.
+The nearest prime number to 1996 is 1997.
+The number 1997 is prime.
+The nearest prime number to 1998 is 1997.
+The number 1999 is prime.
+The nearest prime number to 2000 is 1999.
+The nearest prime number to 2001 is 1999.
+The nearest prime number to 2002 is 2003.
+The number 2003 is prime.
+The nearest prime number to 2004 is 2003.
+The nearest prime number to 2005 is 2003.
+The nearest prime number to 2006 is 2003.
+The nearest prime number to 2007 is 2003.
+The nearest prime number to 2008 is 2011.
+The nearest prime number to 2009 is 2011.
+The nearest prime number to 2010 is 2011.
+The number 2011 is prime.
+The nearest prime number to 2012 is 2011.
+The nearest prime number to 2013 is 2011.
+The nearest prime number to 2014 is 2011.
+The nearest prime number to 2015 is 2017.
+The nearest prime number to 2016 is 2017.
+The number 2017 is prime.
+The nearest prime number to 2018 is 2017.
+The nearest prime number to 2019 is 2017.
+The nearest prime number to 2020 is 2017.
+The nearest prime number to 2021 is 2017.
+The nearest prime number to 2022 is 2017.
+The nearest prime number to 2023 is 2027.
+The nearest prime number to 2024 is 2027.
+The nearest prime number to 2025 is 2027.
+The nearest prime number to 2026 is 2027.
+The number 2027 is prime.
+The nearest prime number to 2028 is 2027.
+The number 2029 is prime.
+The nearest prime number to 2030 is 2029.
+The nearest prime number to 2031 is 2029.
+The nearest prime number to 2032 is 2029.
+The nearest prime number to 2033 is 2029.
+The nearest prime number to 2034 is 2029.
+The nearest prime number to 2035 is 2039.
+The nearest prime number to 2036 is 2039.
+The nearest prime number to 2037 is 2039.
+The nearest prime number to 2038 is 2039.
+The number 2039 is prime.
+1 is not perfect
+2 is not perfect
+3 is not perfect
+4 is not perfect
+5 is not perfect
+6 is perfect
+7 is not perfect
+8 is not perfect
+9 is not perfect
+10 is not perfect
+11 is not perfect
+12 is not perfect
+13 is not perfect
+14 is not perfect
+15 is not perfect
+16 is not perfect
+17 is not perfect
+18 is not perfect
+19 is not perfect
+20 is not perfect
+21 is not perfect
+22 is not perfect
+23 is not perfect
+24 is not perfect
+25 is not perfect
+26 is not perfect
+27 is not perfect
+28 is perfect
+29 is not perfect
+30 is not perfect
+31 is not perfect
+32 is not perfect
+33 is not perfect
+34 is not perfect
+35 is not perfect
+36 is not perfect
+37 is not perfect
+38 is not perfect
+39 is not perfect
+40 is not perfect
+41 is not perfect
+42 is not perfect
+43 is not perfect
+44 is not perfect
+45 is not perfect
+46 is not perfect
+47 is not perfect
+48 is not perfect
+49 is not perfect
+50 is not perfect
+51 is not perfect
+52 is not perfect
+53 is not perfect
+54 is not perfect
+55 is not perfect
+56 is not perfect
+57 is not perfect
+58 is not perfect
+59 is not perfect
+60 is not perfect
+61 is not perfect
+62 is not perfect
+63 is not perfect
+64 is not perfect
+65 is not perfect
+66 is not perfect
+67 is not perfect
+68 is not perfect
+69 is not perfect
+70 is not perfect
+71 is not perfect
+72 is not perfect
+73 is not perfect
+74 is not perfect
+75 is not perfect
+76 is not perfect
+77 is not perfect
+78 is not perfect
+79 is not perfect
+80 is not perfect
+81 is not perfect
+82 is not perfect
+83 is not perfect
+84 is not perfect
+85 is not perfect
+86 is not perfect
+87 is not perfect
+88 is not perfect
+89 is not perfect
+90 is not perfect
+91 is not perfect
+92 is not perfect
+93 is not perfect
+94 is not perfect
+95 is not perfect
+96 is not perfect
+97 is not perfect
+98 is not perfect
+99 is not perfect
+100 is not perfect
+The quick brown fox jumps over the lazy dog
+Th qck brwn fx jmps vr th lzy dg
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199, 211, 223, 227, 229, 233, 239, 241, 251, 257, 263, 269, 271, 277, 281, 283, 293, 307, 311, 313, 317, 331, 337, 347, 349, 353, 359, 367, 373, 379, 383, 389, 397, 401, 409, 419, 421, 431, 433, 439, 443, 449, 457, 461, 463, 467, 479, 487, 491, 499, 503, 509, 521, 523, 541
